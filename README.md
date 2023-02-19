@@ -2,7 +2,7 @@
 
 This repository contains various files related to data engineering. The list of files and their descriptions are as follows:
 
-"AWS_lambda_function.ipynb"
+### AWS_lambda_function.ipynb
 This is the first version of a Jupyter notebook containing script for an AWS Lambda function. This function is used to collect the weather and flights data through APIs,
 and store it in our AWS RDS MySQL instance.
 
